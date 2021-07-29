@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name kada2020_3)(type KiCad)(uri C:/Users/siron/Desktop/KiCad/新しいフォルダー/kada2020_3/kada2020_3.pretty)(options "")(descr ""))
+  (lib (name GS-7_2021_3-1)(type KiCad)(uri "C:/Users/siron/Desktop/KiCad/新しいフォルダー (3)/GS-7_2021_3-1/GS-7_2021_3-1.pretty")(options "")(descr ""))
+  (lib (name KUTKiCad_footprint)(type KiCad)(uri C:/Users/siron/Desktop/KiCad/KUT-KiCad-Library-master/KUT-KiCad-Library-master/KUTKiCad_footprint.pretty)(options "")(descr ""))
+  (lib (name logger2)(type KiCad)(uri ${KIPRJMOD}/logger2.pretty)(options "")(descr ""))
+)

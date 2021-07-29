@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name logger1)(type Legacy)(uri C:/Users/siron/Desktop/KiCad/Kata2021_9/logger1/logger1/logger1.lib)(options "")(descr ""))
+  (lib (name New_Library_1)(type Legacy)(uri C:/Users/siron/Desktop/KiCad/新しいフォルダー/kada2020_3/New_Library_1.lib)(options "")(descr ""))
+)
